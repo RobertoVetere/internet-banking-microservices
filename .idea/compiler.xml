@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="internet-banking-api-gateway.main" target="17" />
-      <module name="internet-banking-api-gateway.test" target="17" />
-      <module name="internet-banking-user-service.main" target="17" />
-      <module name="internet-banking-user-service.test" target="17" />
-    </bytecodeTargetLevel>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
   </component>
 </project>
